@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnmolChoudhary506](https://github.com/AnmolChoudhary506)
 
-- 📝 I regularly write articles on [linkedin.com/in/anmol-choudhary-26b33b333](linkedin.com/in/anmol-choudhary-26b33b333)
+- 📝 I regularly write articles on [linkedin.com/in/anmol-choudhary-26b33b333](https://www.linkedin.com/in/anmol-choudhary-26b33b333/)
 
 - 💬 Ask me about **Power BI, SQL, Excel, Data Visualization, DAX, Power Query, Data Analytics Projects**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/anmol-choudhary-26b33b333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol choudhary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anmol-choudhary-26b33b333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol choudhary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
